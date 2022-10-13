@@ -30,12 +30,16 @@ public class NorwayMotherOfAllFlags {
 
 	public static void france() {
 		
-		// TODO
+		StdDraw.setXscale(8,5);
+		StdDraw.setYscale(4,5); 
+		mother(); 
 	}
 
 	public static void indonesia() {
 		
-		// TODO
+		StdDraw.setXscale(6,7);
+		StdDraw.setYscale(10,3); 
+		mother(); 
 	}
 
 	public static void netherlands() {
